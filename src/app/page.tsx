@@ -63,7 +63,7 @@ export default function LandingPage() {
           href: "#rooms",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/lifestyle-person-decorating-their-front-door_23-2150562548.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/lifestyle-person-decorating-their-front-door_23-2150562548.jpg?_wi=1"
     />
   </div>
 
@@ -116,42 +116,42 @@ export default function LandingPage() {
           name: "Standard Queen Room",
           price: "$89 / night",
           variant: "Queen Bed",
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-rendering-beautiful-comtemporary-luxury-bedroom-suite-hotel-with-tv_105762-2058.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/3d-rendering-beautiful-comtemporary-luxury-bedroom-suite-hotel-with-tv_105762-2058.jpg?_wi=1",
         },
         {
           id: "r2",
           name: "Deluxe King Suite",
           price: "$129 / night",
           variant: "King Bed",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-with-laptop-near-sad-man_23-2147769407.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-with-laptop-near-sad-man_23-2147769407.jpg?_wi=1",
         },
         {
           id: "r3",
           name: "Family Suite",
           price: "$159 / night",
           variant: "Two Queen Beds",
-          imageSrc: "http://img.b2bpic.net/free-photo/open-laptop-bed_171337-12759.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/open-laptop-bed_171337-12759.jpg?_wi=1",
         },
         {
           id: "r4",
           name: "Business Single",
           price: "$99 / night",
           variant: "Work Desk",
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-rendering-beautiful-comtemporary-luxury-bedroom-suite-hotel-with-tv_105762-2058.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/3d-rendering-beautiful-comtemporary-luxury-bedroom-suite-hotel-with-tv_105762-2058.jpg?_wi=2",
         },
         {
           id: "r5",
           name: "Executive King",
           price: "$149 / night",
           variant: "Luxury Suite",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-with-laptop-near-sad-man_23-2147769407.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-with-laptop-near-sad-man_23-2147769407.jpg?_wi=2",
         },
         {
           id: "r6",
           name: "Accessible Room",
           price: "$95 / night",
           variant: "ADA Compliant",
-          imageSrc: "http://img.b2bpic.net/free-photo/open-laptop-bed_171337-12759.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/open-laptop-bed_171337-12759.jpg?_wi=2",
         },
       ]}
       title="Our Accommodations"
@@ -200,7 +200,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       title="Contact Us"
       description="Have questions about your stay? Reach out to our front desk team directly."
-      imageSrc="http://img.b2bpic.net/free-photo/lifestyle-person-decorating-their-front-door_23-2150562548.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/lifestyle-person-decorating-their-front-door_23-2150562548.jpg?_wi=2"
       mediaAnimation="blur-reveal"
       inputs={[
         {
